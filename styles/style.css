@@ -1,0 +1,6 @@
+body{
+    background-color: #407bc7a2; /*фон*/
+}
+ul li{
+    display: inline; /*список в один ряд*/
+}
